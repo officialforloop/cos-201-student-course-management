@@ -1,0 +1,5 @@
+*.class
+courses.tsv
+*.log
+.DS_Store
+Thumbs.db
